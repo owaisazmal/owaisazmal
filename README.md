@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on:<br>Building a robot using ROS for the IGV competition and exploring Swift/iOS projects.<br><br>I'm looking to collaborate on:<br>Robotics or iOS projects, particularly those involving ROS.<br><br>I'm looking for help with:<br>Advancing my ROS skills for robotics applications.<br><br>I'm currently learning:<br>AWS, ROS, and Data Structures & Algorithms.<br><br>Ask me about:<br>Robotics, iOS development, or cloud computing with AWS.<br><br>Fun fact:<br>I enjoy tech competitions and experimenting with new technology!<br><br>
+I'm currently working on:<br>Building a robot using ROS for the IGV competition and exploring Swift/iOS projects.<br><br>I'm looking to collaborate on:<br>Robotics or iOS projects, particularly those involving ROS.<br><br>I'm currently learning:<br>AWS, ROS, and Data Structures & Algorithms.<br><br>Ask me about:<br>Robotics, iOS development, or cloud computing with AWS.<br><br>Fun fact:<br>I enjoy tech competitions and experimenting with new technology!<br><br>
 
 
 ## 🌐 Socials:
