@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm currently working on:<br>Building a robot using ROS for the IGV competition and exploring Swift/iOS projects.<br><br>I'm looking to collaborate on:<br>Robotics or iOS projects, particularly those involving ROS.<br><br>Ask me about:<br>Robotics, iOS development, or cloud computing with AWS.<br><br>Fun fact:<br>I enjoy tech competitions and experimenting with new technology!<br><br>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/owais-khan-266492222) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26470030) 
 
