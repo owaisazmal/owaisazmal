@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Owais Khan</h1>
 <h3 align="center">A passionate iOS/Android developer from Los Angeles</h3>
 
-- 🔭 I’m Currently building next-gen apps at Hidonix LLC. [ION](https://hidonix.com/en/ion-indoor-outdoor-navigation)
+- 🔭 I’m Currently building next-gen apps at Hidonix LLC. <a href="https://hidonix.com/en/ion-indoor-outdoor-navigation" target="_blank">
+  <img src="https://img.shields.io/badge/ION-Navigation-blue" />
+</a>
 
 - 🌱 I’m currently learning **Stanford’s CS193p iOS Development with Swift and JetBrains’ Kotlin for Android Developers**
 
