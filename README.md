@@ -28,7 +28,7 @@
   <li>👯 Looking to collaborate on <a href="https://github.com/owaisazmal/Swift-Scribe">Swift-Scribe</a></li>
   <li>👨‍💻 All of my projects are available at <a href="https://owaisazmal.github.io/DevPortfolio/">https://owaisazmal.github.io/DevPortfolio/</a></li>
   <li>💬 Ask me about <strong>Swift, Kotlin, Firebase, Core Data, Neural Network</strong></li>
-  <li>📫 Reach me at <strong>owaiskhan461@gmail.com</strong></li>
+  <li>📫 Reach me at <strong>owais.develops@gmail.com</strong></li>
 </ul>
 
 ---
