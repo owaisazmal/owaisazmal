@@ -99,6 +99,12 @@ I'm a mobile developer in Los Angeles. At [Hidonix](https://hidonix.com/en/ion-i
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+    <img src="assets/contributions-light.svg" width="100%" alt="Contribution graph for the past year">
+  </picture>
+</p>
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=owaisazmal&hide_border=true&background=00000000&stroke=30363d&ring=5aa9ff&fire=f5b84a&currStreakNum=f3f4f6&sideNums=f3f4f6&currStreakLabel=5aa9ff&sideLabels=8b92a0&dates=8b92a0">
     <img src="https://streak-stats.demolab.com/?user=owaisazmal&hide_border=true&background=00000000&stroke=d0d7de&ring=1f6fe0&fire=b97800&currStreakNum=111318&sideNums=111318&currStreakLabel=1f6fe0&sideLabels=5d6471&dates=5d6471" height="175" alt="GitHub contribution streak">
   </picture>

@@ -1,0 +1,35 @@
+name: Contribution graph
+
+on:
+  schedule:
+    - cron: "23 7 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/contributions.mjs
+      - .github/workflows/contributions.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: node scripts/contributions.mjs
+      - name: Commit the new graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions-dark.svg assets/contributions-light.svg
+          git diff --cached --quiet || git commit -m "Update contribution graph"
+          git push
